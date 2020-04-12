@@ -1,12 +1,9 @@
 # CC-CEDICT Chinese-English Dictionary for Kindle with Mandarin and Cantonese (mobi format)
 
-## Download
+## Fored and modified from
 
-Amazon Kindle Store: [Pinyin and Jyutping](https://www.amazon.com/Chinese-English-Dictionary-Mandarin-Cantonese-Pronunciations-ebook/dp/B07MV9TJQB/) or [Zhuyin and Jyutping](https://www.amazon.com/Chinese-English-Dictionary-Mandarin-Cantonese-Pronunciations-ebook/dp/B07MVF4NGF)
+https://github.com/gkovacs/cantodict-kindle-mobi
 
-Mobi ([sideload it](https://www.lifewire.com/load-non-amazon-books-kindle-1616647)): [Pinyin and Jyutping](https://github.com/gkovacs/cantodict-kindle-mobi/blob/master/dictionary.mobi) or [Zhuyin and Jyutping](https://github.com/gkovacs/cantodict-kindle-mobi/blob/master/dictionary_zhuyin.mobi)
-
-Donations appreciated: [Paypal](https://www.paypal.me/gezak/5) [Venmo](https://venmo.com/?txn=pay&recipients=gezak&amount=5.00&note=for%20Chinese-English%20Dictionary&audience=public) [Bitcoin](https://www.gkovacs.com/bitcoin.html)
 
 ## About
 
