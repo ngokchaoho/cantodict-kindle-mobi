@@ -83,6 +83,7 @@ If you would also like it in stardict format, install stardict-tools and then
 # Author
 
 [Geza Kovacs](https://github.com/gkovacs)
+[Ngok Chao HO](https://github.com/ngokchaoho)
 
 # License
 
