@@ -1,12 +1,23 @@
 #!/usr/bin/env python3
 # coding: utf8
 
-from memoize import memoize
 from copy import copy
 import dragonmapper
 import dragonmapper.transcriptions
 
 import sys
+
+
+class memoize:
+
+  def __init__(self, fn):
+    self.fn = fn
+    self.memo = {}
+
+  def __call__(self, *args):
+    if args not in self.memo:
+      self.memo[args] = self.fn(*args)
+    return self.memo[args]
 
 @memoize
 def get_chars_to_remove():
