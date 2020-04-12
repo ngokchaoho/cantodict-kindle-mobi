@@ -1,6 +1,6 @@
 # CC-CEDICT Chinese-English Dictionary for Kindle with Mandarin and Cantonese (mobi format)
 
-## Fored and modified from
+## Forked and modified from
 
 https://github.com/gkovacs/cantodict-kindle-mobi
 
