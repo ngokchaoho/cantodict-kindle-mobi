@@ -83,6 +83,7 @@ If you would also like it in stardict format, install stardict-tools and then
 # Author
 
 [Geza Kovacs](https://github.com/gkovacs)
+
 [Ngok Chao HO](https://github.com/ngokchaoho)
 
 # License
@@ -92,8 +93,4 @@ MIT
 # Related
 
 For version with pinyin and no jyutping, see https://github.com/gkovacs/cc-cedict-kindle-mobi
-
-# Donate
-
-[Donations appreciated](http://www.gkovacs.com/donate.html)
 
