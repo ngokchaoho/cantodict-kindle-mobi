@@ -4,8 +4,9 @@
 
 https://github.com/gkovacs/cantodict-kindle-mobi
 
-##kindlegen
+## kindlegen
 From https://github.com/andyljones/kindlegen-64
+
 This is a mirror of Amazon's 64-bit kindlegen, extracted from Kindle Previewer 3. Unlike the independently-downloadable 32-bit kindlegen this works on OSX after Mojave/10.14.
 
 
